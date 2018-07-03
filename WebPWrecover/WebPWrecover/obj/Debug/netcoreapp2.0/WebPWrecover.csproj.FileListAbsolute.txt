@@ -1,0 +1,12 @@
+D:\workspace\WebPWrecover\WebPWrecover\bin\Debug\netcoreapp2.0\WebPWrecover.deps.json
+D:\workspace\WebPWrecover\WebPWrecover\bin\Debug\netcoreapp2.0\WebPWrecover.runtimeconfig.json
+D:\workspace\WebPWrecover\WebPWrecover\bin\Debug\netcoreapp2.0\WebPWrecover.runtimeconfig.dev.json
+D:\workspace\WebPWrecover\WebPWrecover\bin\Debug\netcoreapp2.0\WebPWrecover.dll
+D:\workspace\WebPWrecover\WebPWrecover\bin\Debug\netcoreapp2.0\WebPWrecover.pdb
+D:\workspace\WebPWrecover\WebPWrecover\obj\Debug\netcoreapp2.0\WebPWrecover.csprojAssemblyReference.cache
+D:\workspace\WebPWrecover\WebPWrecover\obj\Debug\netcoreapp2.0\WebPWrecover.csproj.CoreCompileInputs.cache
+D:\workspace\WebPWrecover\WebPWrecover\obj\Debug\netcoreapp2.0\WebPWrecover.AssemblyInfoInputs.cache
+D:\workspace\WebPWrecover\WebPWrecover\obj\Debug\netcoreapp2.0\WebPWrecover.AssemblyInfo.cs
+D:\workspace\WebPWrecover\WebPWrecover\obj\Debug\netcoreapp2.0\WebPWrecover.dll
+D:\workspace\WebPWrecover\WebPWrecover\obj\Debug\netcoreapp2.0\WebPWrecover.pdb
+D:\workspace\WebPWrecover\WebPWrecover\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
